@@ -140,11 +140,29 @@ Sou Técnico de Enfermagem em transição de carreira para área de tecnolçogia
       <br>Docker
     </td>
   <tr>
-        <td align="center" width="96">
+    <td align="center" width="96">
       <a href="https://www.notion.com/">
         <img src="https://skillicons.dev/icons?i=notion" alt="icon" width="30" height="30"/>
       </a>
       <br>Notion
+    </td>
+    <td align="center" width="96">
+      <a href="https://cloud.google.com/?hl=pt-BR">
+        <img src="https://skillicons.dev/icons?i=googlecloud" alt="icon" width="30" height="30"/>
+      </a>
+      <br>Google Cloud
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.markdownguide.org/">
+        <img src="https://skillicons.dev/icons?i=md" alt="icon" width="30" height="30"/>
+      </a>
+      <br>Markdown
+    </td>
+    <td align="center" width="96">
+      <a href="https://learn.microsoft.com/pt-br/powershell/scripting/overview?view=powershell-7.4">
+        <img src="https://skillicons.dev/icons?i=powershell" alt="icon" width="30" height="30"/>
+      </a>
+      <br>Powershell
     </td>
   </tr>
     <!-- <td align="center" width="96">
@@ -188,6 +206,11 @@ Sou Técnico de Enfermagem em transição de carreira para área de tecnolçogia
 - Perfil Instagram:
   <a href="https://www.instagram.com/rodrigopires.dev">
   <img align="center" src="https://img.shields.io/badge/instagram-A6CE39?style=for-the-badge&logo=instagram&logoColor=white" style="margin-left: 20px;">
+  </a>
+
+- Perfil DIO:
+  <a href="https://www.dio.me/users/dev_rodrigopires">
+  <img align="center" src="https://img.shields.io/badge/DIO-00008b?style=for-the-badge&logo=DIO&logoColor=white" style="margin-left: 20px;">
   </a>
 
 - 📫 Contacte-me via email institucional em: dev.rodrigopires@gmail.com
