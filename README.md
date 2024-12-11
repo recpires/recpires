@@ -139,6 +139,13 @@ Sou Técnico de Enfermagem em transição de carreira para área de tecnolçogia
       </a>
       <br>Docker
     </td>
+  <tr>
+        <td align="center" width="96">
+      <a href="https://www.notion.com/">
+        <img src="https://skillicons.dev/icons?i=notion" alt="icon" width="30" height="30"/>
+      </a>
+      <br>Notion
+    </td>
   </tr>
     <!-- <td align="center" width="96">
       <a href="">
