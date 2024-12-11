@@ -215,12 +215,11 @@ Sou Técnico de Enfermagem em transição de carreira para área de tecnolçogia
 
 - 📫 Contacte-me via email institucional em: rodrigo.pires@aluno.faculdadeimpacta.com.br
 
-
 ## Links Úteis
-  - [Guia sobre Markdown do GitHub](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)
-  - [Onde encontrar Badges legais para o seu Perfil](https://github.com/Ileriayo/markdown-badges#markdown-badges) 
-  - [Gerador automático de Readme para GitHub](https://rahuldkjain.github.io/gh-profile-readme-generator/)
 
+- [Guia sobre Markdown do GitHub](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)
+- [Onde encontrar Badges legais para o seu Perfil](https://github.com/Ileriayo/markdown-badges#markdown-badges)
+- [Gerador automático de Readme para GitHub](https://rahuldkjain.github.io/gh-profile-readme-generator/)
 
 ### Repositórios em Destaque
 
@@ -235,6 +234,7 @@ Sou Técnico de Enfermagem em transição de carreira para área de tecnolçogia
     <img height="95cm" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=recpires&repo=DIO-Machine-Learning-transfer-learning&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
   </a>
 </div>
+<br><br><br><br>
 
 ### Estatísticas das contribuições e dos usos das linguagens
 
@@ -247,9 +247,3 @@ Sou Técnico de Enfermagem em transição de carreira para área de tecnolçogia
   </a>
 </div>
 <tr>
-
-
-
-
-
-
