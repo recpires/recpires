@@ -213,7 +213,28 @@ Sou Técnico de Enfermagem em transição de carreira para área de tecnolçogia
   <img align="center" src="https://img.shields.io/badge/DIO-00008b?style=for-the-badge&logo=DIO&logoColor=white" style="margin-left: 20px;">
   </a>
 
-- 📫 Contacte-me via email institucional em: dev.rodrigopires@gmail.com
+- 📫 Contacte-me via email institucional em: rodrigo.pires@aluno.faculdadeimpacta.com.br
+
+
+## Links Úteis
+  - [Guia sobre Markdown do GitHub](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)
+  - [Onde encontrar Badges legais para o seu Perfil](https://github.com/Ileriayo/markdown-badges#markdown-badges) 
+  - [Gerador automático de Readme para GitHub](https://rahuldkjain.github.io/gh-profile-readme-generator/)
+
+
+### Repositórios em Destaque
+
+<div>
+  <a href="https://github.com/recpires/Series-terror">
+    <img height="95cm" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=recpires&repo=Series-terror&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
+  </a>
+    <a href="https://github.com/recpires/Grafico">
+    <img height="95cm" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=recpires&repo=Grafico&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
+  </a>
+      <a href="https://github.com/recpires/DIO-Machine-Learning-transfer-learning">
+    <img height="95cm" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=recpires&repo=DIO-Machine-Learning-transfer-learning&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
+  </a>
+</div>
 
 ### Estatísticas das contribuições e dos usos das linguagens
 
@@ -225,3 +246,10 @@ Sou Técnico de Enfermagem em transição de carreira para área de tecnolçogia
     <img height="180cm" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=recpires&layout=compact&card_width=280&border_radius=3&langs_count=20&theme=gotham" />
   </a>
 </div>
+<tr>
+
+
+
+
+
+
