@@ -1,4 +1,4 @@
-[![README](https://img.shields.io/static/v1?label=readme&message=en-US&color=blue&style=plastic)]([https://github.com/recpires/READMEEN-US.md](https://github.com/recpires/recpires/blob/main/READMEEN-US.md))
+[![README](https://img.shields.io/static/v1?label=readme&message=en-US&color=blue&style=plastic)]([https://github.com/recpires))
 
 <h1 align="center">Rodrigo Pires</h1>
 <h3 align="center">Desenvolvedor de Software em Transição de Carreira</h3>
