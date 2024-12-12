@@ -250,14 +250,10 @@ Sou Técnico de Enfermagem em transição de carreira para área de tecnologia, 
 </div>
 <br><br><br><br><br><br><br><br><br><br>
 
-### Estatísticas das contribuições e dos usos das linguagens
+### Estatísticas das contribuições
 
-<div>
-  <a href="https://github.com/recpires">
-    <img height="180cm" align="left" src="https://github-readme-stats.vercel.app/api?username=recpires&line_height=25&card_width=380&border_radius=4&show_icons=true&count_private=true&theme=gotham&include_all_commits=true" />
-  </a>
-  <a href="https://github.com/recpires">
-    <img height="180cm" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=recpires&layout=compact&card_width=280&border_radius=3&langs_count=20&theme=gotham" />
-  </a>
-</div>
-<tr>
+![Rodrigo Pires](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple)
+
+###  Linguagens Utilizadas
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=recpires&layout=compact)](https://github.com/recpires/github-readme-stats)
