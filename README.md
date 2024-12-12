@@ -3,6 +3,8 @@
 <h1 align="center">Rodrigo Pires</h1>
 <h3 align="center">Desenvolvedor de Software em Transição de Carreira</h3>
 
+>"Quanto melhor focamos em melhorar, mais rápido melhoraremos." - Douglas Engelbart
+
 ### Sobre mim:
 
 <p>
