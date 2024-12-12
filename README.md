@@ -188,6 +188,18 @@ Sou Técnico de Enfermagem em transição de carreira para área de tecnologia, 
   </tr>
 </table>
 
+|Cursos| Certificado|
+|------|------------|
+|Introdução ao Machine Learning|[Certificado](https://hermes.dio.me/certificates/4CLT1F1U.pdf)
+|Programação para Machine Learning|[Certificado](https://hermes.dio.me/certificates/NU6A13SI.pdf)
+|Algoritmos de Treinamento em Machine Learning|[Certificado](https://hermes.dio.me/certificates/A8VICXPC.pdf)
+|Introdução à Lógica de Programação|[Certificado](https://hermes.dio.me/certificates/7GUJCIEA.pdf)
+|Introdução a Banco de Dados|[Certificado](https://hermes.dio.me/certificates/3W9PHQC0.pdf)
+|Princípios de Desenvolvimento de Software Colaborativo|[Certificado](https://hermes.dio.me/certificates/YJL1X0AE.pdf)
+
+
+
+
 ### Conecte-se comigo
 
 - Email pessoal:
