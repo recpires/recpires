@@ -6,7 +6,7 @@
 ### Sobre mim:
 
 <p>
-Sou Técnico de Enfermagem em transição de carreira para área de tecnologia, cursando cibersegurança pela Faculdade Impacta de Tecnologia, cursando três Bootcamp's na DIO um em parceria com a Bairesdev em Machine Learning, outro em parceria com a SUZANO em Analise de dados com Power BI e um da Microsoft focado em GitHub com Copilot , sou curioso e dedicado, busco constante conhecimento nesse mundo imenso da tecnologia, além dos bootcamp estou cursando também pela DIO formação em lógica de programação, certificação Git e GitHub, Paython Back-End, Front-End do zero em parceria com a RiHappy e Fundamentos de Node.js.
+Sou Técnico de Enfermagem em transição de carreira para área de tecnologia, cursando cibersegurança pela Faculdade Impacta de Tecnologia, cursando três Bootcamp's na DIO um em parceria com a Bairesdev em Machine Learning, outro em parceria com a SUZANO em Analise de dados com Power BI e um da Microsoft focado em GitHub com Copilot , sou curioso e dedicado, busco constante conhecimento nesse mundo imenso da tecnologia, além dos bootcamp estou cursando também pela DIO formação em lógica de programação, certificação Git e GitHub, Python Back-End, Front-End do zero em parceria com a RiHappy e Fundamentos de Node.js.
 </p>
 
 ### Situação atual
