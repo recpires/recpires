@@ -166,6 +166,12 @@ Sou Técnico de Enfermagem em transição de carreira para área de tecnologia, 
       </a>
       <br>Powershell
     </td>
+        <td align="center" width="96">
+      <a href="https://www.sublimetext.com/">
+        <img src="https://skillicons.dev/icons?i=sublime" alt="icon" width="30" height="30"/>
+      </a>
+      <br>Sublime
+    </td>
   </tr>
     <!-- <td align="center" width="96">
       <a href="">
