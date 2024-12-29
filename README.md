@@ -173,6 +173,12 @@ Sou Técnico de Enfermagem em transição de carreira para área de tecnologia, 
       <br>Sublime
     </td>
         <td align="center" width="96">
+      <a href="https://www.w3schools.com/cs/index.php">
+        <img src="https://skillicons.dev/icons?i=cs" alt="icon" width="30" height="30"/>
+      </a>
+      <br>C#
+    </td>
+        <td align="center" width="96">
       <a href="https://dotnet.microsoft.com/pt-br/">
         <img src="https://skillicons.dev/icons?i=dotnet" alt="icon" width="30" height="30"/>
       </a>
