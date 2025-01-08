@@ -215,6 +215,7 @@ Sou Técnico de Enfermagem em transição de carreira para área de tecnologia, 
 |Introdução a Banco de Dados|[Certificado](https://hermes.dio.me/certificates/3W9PHQC0.pdf)
 |Princípios de Desenvolvimento de Software Colaborativo|[Certificado](https://hermes.dio.me/certificates/YJL1X0AE.pdf)
 |Formação Github Certification|[Certificado](https://hermes.dio.me/certificates/SJZVBPHM.pdf)
+|Formação Lógica de Programação|[Certificado](https://hermes.dio.me/certificates/PCGWEZWX.pdf)
 
 
 
