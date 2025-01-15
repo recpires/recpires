@@ -184,6 +184,13 @@ Sou Técnico de Enfermagem em transição de carreira para área de tecnologia, 
       </a>
       <br>.NET
     </td>
+        </td>
+        <td align="center" width="96">
+      <a href="https://opencv.org/">
+        <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="icon" width="30" height="30"/>
+      </a>
+      <br>opencv
+    </td>
   </tr>
     <!-- <td align="center" width="96">
       <a href="">
