@@ -87,7 +87,6 @@ Sou Técnico de Enfermagem em transição de carreira para área de tecnologia, 
   </a>
 </div>
 <br>
-<p>📫 Contacte-me via email institucional em: rodrigo.pires@aluno.faculdadeimpacta.com.br</p>
 
 <h2>Links Úteis</h2>
 
