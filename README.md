@@ -59,8 +59,17 @@ Sou Técnico de Enfermagem em transição de carreira para área de tecnologia, 
   <img src="https://skillicons.dev/icons?i=googlecloud" height="50"/>
   <img src="https://skillicons.dev/icons?i=azure" height="50"/>
 
- <br><br>
+  <div class="galeria_tech" align="center">
+  <h1>Bootecamp's</h1><br>
+    <img src="https://assets.dio.me/JdBTHUCmNxrrJUiTJ2Xr3uCb3ERnBFWVbLU0kZlfxpY/f:webp/h:120/q:80/L3RyYWNrcy85NzdkMWI0MS01ODg4LTQ0ZDctOGU0Yy01N2QyMzQ4NzQ4ZGMucG5n" height="50px">
+    <img src="https://assets.dio.me/N3ET28fsUKPyJZb6mh6vdqhVziWjbk3xPNlE_velBWs/f:webp/h:120/q:80/L3RyYWNrcy85NzIyOTdkYy00MzU3LTRhZjQtYWJlYS04OWEzODg1M2E5NDkucG5n" height="50px">
+    <img src="https://assets.dio.me/kCPUcBRKwIhY3--gHdSspiZWdpUXMS2UD0wXM7klMb4/f:webp/h:120/q:80/L3RyYWNrcy81NzQ0ODVlZS0xZTk1LTQzMjAtOThlYy1kMTUyZGQ4ZDk5YmQucG5n" height="50px">
+    <img src="https://assets.dio.me/OTzqoUcfTvgJRGhPlCoXZXzVWpFQB5yO-pygSZ_CTv8/f:webp/h:120/q:80/L3RyYWNrcy9iMTkzMDhmZi05NDMxLTQ4ZTktOWM3Yi01Y2YwMWRkNWVjMjQucG5n" height="50px">
 
+  
+
+
+ <br><br>
 |Cursos| Certificado|
 |------|------------|
 |Introdução ao Machine Learning|[Certificado](https://hermes.dio.me/certificates/4CLT1F1U.pdf)
@@ -71,6 +80,8 @@ Sou Técnico de Enfermagem em transição de carreira para área de tecnologia, 
 |Princípios de Desenvolvimento de Software Colaborativo|[Certificado](https://hermes.dio.me/certificates/YJL1X0AE.pdf)
 |Formação Github Certification|[Certificado](https://hermes.dio.me/certificates/SJZVBPHM.pdf)
 |Formação Lógica de Programação|[Certificado](https://hermes.dio.me/certificates/PCGWEZWX.pdf)
+|BairesDev - Machine Learning Practitioner|[Certificado](https://hermes.dio.me/certificates/WMMQTTZU.pdf)
+|Formação Machine Learning Specialist|[Certificado](https://hermes.dio.me/certificates/37JOHFEB.pdf)
 
 
 ### Conecte-se comigo
