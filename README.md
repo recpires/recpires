@@ -107,18 +107,6 @@ Sou Técnico de Enfermagem em transição de carreira para área de tecnologia, 
 <br>
 [Gerador automático de Readme para GitHub](https://rahuldkjain.github.io/gh-profile-readme-generator/)
 
-<h2>Repositórios em Destaque</h2>
-<div>
-  <a href="https://github.com/recpires/Series-terror">
-    <img height="95cm" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=recpires&repo=Series-terror&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
-  </a>
-    <a href="https://github.com/recpires/Grafico">
-    <img height="95cm" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=recpires&repo=Grafico&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
-  </a>
-      <a href="https://github.com/recpires/DIO-Machine-Learning-transfer-learning">
-    <img height="95cm" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=recpires&repo=DIO-Machine-Learning-transfer-learning&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
-  </a>
-</div>
 <br><br><br><br><br><br><br><br><br><br>
 
 <h2>Estatísticas das contribuições</h2>
