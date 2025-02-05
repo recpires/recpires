@@ -107,7 +107,7 @@ Sou Técnico de Enfermagem em transição de carreira para área de tecnologia, 
 <br>
 [Gerador automático de Readme para GitHub](https://rahuldkjain.github.io/gh-profile-readme-generator/)
 
-<br><br><br><br><br><br><br><br><br><br>
+<br>
 
 <h2>Estatísticas das contribuições</h2>
 
