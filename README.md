@@ -1,5 +1,3 @@
-[![README](https://img.shields.io/static/v1?label=readme&message=en-US&color=blue&style=plastic)]([https://github.com/recpires)
-
 <h1 align="center">Rodrigo Pires</h1>
 <h3 align="center">Desenvolvedor de Software em Transição de Carreira</h3>
 
@@ -8,7 +6,13 @@
 ### Sobre mim:
 
 <p>
-Sou Técnico de Enfermagem em transição de carreira para área de tecnologia, cursando cibersegurança pela Faculdade Impacta de Tecnologia, cursando três Bootcamp's na DIO um em parceria com a Bairesdev em Machine Learning, outro em parceria com a SUZANO em Analise de dados com Power BI e um da Microsoft focado em GitHub com Copilot , sou curioso e dedicado, busco constante conhecimento nesse mundo imenso da tecnologia, além dos bootcamp estou cursando também pela DIO formação em lógica de programação, certificação Git e GitHub, Python Back-End, Front-End do zero em parceria com a RiHappy e Fundamentos de Node.js.
+Sou Técnico de Enfermagem em transição de carreira para área de tecnologia, cursando cibersegurança pela Faculdade Impacta de Tecnologia, cursando três Bootcamp's na DIO um em parceria com a SUZANO Python Developer, Outro em parceria com a Avanade focado em Java, sou curioso e dedicado, busco constante conhecimento nesse mundo imenso da tecnologia, além dos bootcamp estou cursando também pela DIO formação em lógica de programação, certificação Git e GitHub, Python Back-End, Front-End do zero em parceria com a RiHappy e Fundamentos de Node.js.
+</p>
+
+### About me:
+
+<p>
+I am a Nursing Technician in a career transition to the technology area, studying cybersecurity at Faculdade Impacta de Tecnologia, attending three Bootcamps at DIO, one in partnership with SUZANO Python Developer, another in partnership with Avanade focused on Java, I am curious and dedicated, I constantly seek knowledge in this immense world of technology, in addition to the bootcamps I am also studying at DIO training in programming logic, Git and GitHub certification, Python Back-End, Front-End of zero in partnership with RiHappy and Fundamentals of Node.js.
 </p>
 
 ### Situação atual
