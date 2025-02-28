@@ -33,6 +33,7 @@ Sou Técnico de Enfermagem em transição de carreira para área de tecnologia, 
   <img src="https://skillicons.dev/icons?i=typescript" height="50"/>
   <img src="https://skillicons.dev/icons?i=cs" height="50px">
   <img src="https://skillicons.dev/icons?i=dotnet" height="50"/>
+  <img src="https://skillicons.dev/icons?i=java" height="50"/>
 
   <br>
   <h1>Banco de Dados</h1>
@@ -99,20 +100,32 @@ Sou Técnico de Enfermagem em transição de carreira para área de tecnologia, 
 </div>
 <br>
 
-<h2>Links Úteis</h2>
+## 🔗Links Úteis
 
 [Guia sobre Markdown do GitHub](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)
 <br>
 [Onde encontrar Badges legais para o seu Perfil](https://github.com/Ileriayo/markdown-badges#markdown-badges)
 <br>
 [Gerador automático de Readme para GitHub](https://rahuldkjain.github.io/gh-profile-readme-generator/)
+<br>
+[Python Documentation](https://docs.python.org/3/)
+<br>
+[Java Documentation](https://docs.oracle.com/en/java/)
 
 <br>
 
-<h2>Estatísticas das contribuições</h2>
+## 📊 GitHub Estatísticas/ Stats :
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=recpires&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=recpires&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true" width="39%" />
+</p>
 
-![Rodrigo Pires](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple)
+![snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
+
 
 <h2>Linguagens Utilizadas</h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=recpires&layout=compact)](https://github.com/recpires/github-readme-stats)
+
+![image](https://github.com/user-attachments/assets/91f7b957-5225-41fb-9859-2aee18a04344)
+
