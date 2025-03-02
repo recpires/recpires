@@ -22,7 +22,7 @@ I am a Nursing Technician in a career transition to the technology area, studyin
 
 
 <div class="galeria_tech" align="center">
-  <h1> Linguagens de Programação e Marcação</h1><br>
+  <h1>Tecnologias Para Desenvolvimento</h1><br>
   <img src="https://skillicons.dev/icons?i=python" height="50px">
   <img src="https://skillicons.dev/icons?i=flask" height="50px">
   <img src="https://skillicons.dev/icons?i=django" alt="icon" height="50px"/>
@@ -38,6 +38,7 @@ I am a Nursing Technician in a career transition to the technology area, studyin
   <img src="https://skillicons.dev/icons?i=cs" height="50px">
   <img src="https://skillicons.dev/icons?i=dotnet" height="50"/>
   <img src="https://skillicons.dev/icons?i=java" height="50"/>
+  <img src="https://skillicons.dev/icons?i=spring" height="50"/>
 
   <br>
   <h1>Banco de Dados</h1>
