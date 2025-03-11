@@ -71,6 +71,13 @@ I am a Nursing Technician in a career transition to the technology area, studyin
     <img src="https://assets.dio.me/N3ET28fsUKPyJZb6mh6vdqhVziWjbk3xPNlE_velBWs/f:webp/h:120/q:80/L3RyYWNrcy85NzIyOTdkYy00MzU3LTRhZjQtYWJlYS04OWEzODg1M2E5NDkucG5n" height="50px">
     <img src="https://assets.dio.me/kCPUcBRKwIhY3--gHdSspiZWdpUXMS2UD0wXM7klMb4/f:webp/h:120/q:80/L3RyYWNrcy81NzQ0ODVlZS0xZTk1LTQzMjAtOThlYy1kMTUyZGQ4ZDk5YmQucG5n" height="50px">
     <img src="https://assets.dio.me/OTzqoUcfTvgJRGhPlCoXZXzVWpFQB5yO-pygSZ_CTv8/f:webp/h:120/q:80/L3RyYWNrcy9iMTkzMDhmZi05NDMxLTQ4ZTktOWM3Yi01Y2YwMWRkNWVjMjQucG5n" height="50px">
+    <img src="https://assets.dio.me/vKS7Q5G0wquZ8uE6GlzHCIP3mgAOcl-1TZg4zvTvgho/f:webp/h:120/q:80/L3RyYWNrcy80YzRjNzc2MC1hY2YwLTQ5MjctOTdhMS01ZjQ3ZWFlMDExYWQucG5n" height="50px">
+    <img src="https://assets.dio.me/wqFNFD1_7AKN1MpbZvurY1cUcpUXQ2ELMfW5Bi9R8VM/f:webp/h:120/q:80/L3RyYWNrcy9lN2MzZjVkNy0yMTEwLTQ3N2YtYmYxMS0wNjg3MjQzMjZjYzEucG5n" height="50px">
+
+  <br>
+  <h1>Sistemas Operacionais</h1>
+  <img src="https://skillicons.dev/icons?i=linux" height="50"/>
+  <img src="https://skillicons.dev/icons?i=windows" height="50"/>
 
   
 
