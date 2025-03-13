@@ -8,40 +8,24 @@
 ### Sobre mim:
 
 <p>
-Desenvolvedor Full-Stack com formação em Cibersegurança e especialização em Qualidade de Software (QA), capacitado
-tecnicamente em Python, Node.js, React e tecnologias front-end. Possuo experiência na criação de aplicações web
-responsivas, projetos de automação e análise de dados utilizando bibliotecas como Pandas, NumPy e Matplotlib. Minha
-jornada profissional me proporcionou habilidades de resolução de problemas complexos, adaptabilidade, comunicação eficaz
-e um olhar crítico para a qualidade do software, que aplico no desenvolvimento de soluções tecnológicas e colaboração em
-projetos open source. 
-Atualmente, desenvolvo projetos com foco em desenvolvimento web, inteligência artificial e análise de dados, utilizando
-GitHub para versionamento e práticas de desenvolvimento colaborativo. Minha experiência com Django, React, TypeScript e
-bancos de dados como MongoDB e PostgreSQL me permite criar soluções completas e escaláveis, sempre buscando
-aprimorar minhas habilidades através de aprendizado contínuo e participação em bootcamps especializados em tecnologias
-front-end e back-end, além de metodologias e ferramentas de QA.
+Olá! Sou um Desenvolvedor Full-Stack com uma sólida base em Cibersegurança e especialização em Qualidade de Software (QA). Minha paixão por tecnologia me impulsiona a criar soluções inovadoras e de alta qualidade. Sou proficiente em Python, Node.js, React e outras tecnologias front-end, e tenho experiência na criação de aplicações web responsivas, automação e análise de dados (Pandas, NumPy, Matplotlib).
 
+Minha trajetória profissional me proporcionou habilidades valiosas como resolução de problemas complexos, adaptabilidade, comunicação eficaz e um olhar crítico para a qualidade do software. Atualmente, foco em projetos de desenvolvimento web, inteligência artificial e análise de dados, utilizando o GitHub para versionamento e colaboração. Minha experiência com Django, React, TypeScript e bancos de dados (MongoDB, PostgreSQL) me permite construir soluções completas e escaláveis. Estou sempre em busca de aprimoramento contínuo através de aprendizado e participação em bootcamps especializados.
 </p>
 
 ### About me:
 
 <p>
-Full-Stack Developer with training in Cybersecurity and specialization in Software Quality (QA), qualified
-technically in Python, Node.js, React and front-end technologies. I have experience in creating web applications
-responsive, automation and data analysis projects using libraries such as Pandas, NumPy and Matplotlib. My
-professional journey has provided me with complex problem-solving skills, adaptability, effective communication
-and a critical look at software quality, which I apply in the development of technological solutions and collaboration in
-open source projects. 
-Currently, I develop projects focusing on web development, artificial intelligence and data analysis, using
-GitHub for versioning and collaborative development practices. My experience with Django, React, TypeScript and
-Databases like MongoDB and PostgreSQL allow me to create complete and scalable solutions, always looking for
-improve my skills through continuous learning and participation in specialized technology bootcamps
-front-end and back-end, as well as QA methodologies and tools.
+Hello! I am a Full-Stack Developer with a solid foundation in Cybersecurity and specialization in Software Quality (QA). My passion for technology drives me to create innovative, high-quality solutions. I am proficient in Python, Node.js, React and other front-end technologies, and have experience in creating responsive web applications, automation and data analysis (Pandas, NumPy, Matplotlib).
+
+My professional career has provided me with valuable skills such as complex problem solving, adaptability, effective communication and a critical eye for software quality. Currently, I focus on web development, artificial intelligence and data analysis projects, using GitHub for versioning and collaboration. My experience with Django, React, TypeScript and databases (MongoDB, PostgreSQL) allows me to build complete and scalable solutions. I am always looking for continuous improvement through learning and participating in specialized bootcamps.
 </p>
 
-### Situação atual
 
-- 💻 Atuando em um projeto criando um ERP como Desenvolvedor Full-Stack & Automação de Processos
-- 📚 Em processo de aprendizagem em React [⚛️](https://reactjs.org/), Docker [🐳](https://www.docker.com/) e Java [☕︎](https://docs.oracle.com/en/java/)
+### Situação Atual
+
+* 🚀 Atualmente, estou atuando em um projeto desafiador, desenvolvendo um ERP completo como Desenvolvedor Full-Stack e implementando Automação de Processos para otimizar a eficiência.
+* 📚 Continuo a expandir meu conjunto de habilidades, aprofundando meus conhecimentos em React [⚛️](https://reactjs.org/), Docker [🐳](https://www.docker.com/) e Java [☕︎](https://docs.oracle.com/en/java/), buscando me manter na vanguarda das tecnologias.
 
 
 <div class="galeria_tech" align="center">
@@ -162,5 +146,5 @@ front-end and back-end, as well as QA methodologies and tools.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=recpires&layout=compact)](https://github.com/recpires/github-readme-stats)
 
-![image](https://github.com/user-attachments/assets/91f7b957-5225-41fb-9859-2aee18a04344)
+![image](https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif)
 
