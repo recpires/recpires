@@ -1,3 +1,5 @@
+
+
 <h1 align="center">Rodrigo Pires</h1>
 <h3 align="center">Desenvolvedor de Software em Transição de Carreira</h3>
 
@@ -6,19 +8,40 @@
 ### Sobre mim:
 
 <p>
-Sou Técnico de Enfermagem em transição de carreira para área de tecnologia, cursando cibersegurança pela Faculdade Impacta de Tecnologia, cursando três Bootcamp's na DIO um em parceria com a SUZANO Python Developer, Outro em parceria com a Avanade focado em Java, sou curioso e dedicado, busco constante conhecimento nesse mundo imenso da tecnologia, além dos bootcamp estou cursando também pela DIO formação em lógica de programação, certificação Git e GitHub, Python Back-End, Front-End do zero em parceria com a RiHappy e Fundamentos de Node.js.
+Desenvolvedor Full-Stack com formação em Cibersegurança e especialização em Qualidade de Software (QA), capacitado
+tecnicamente em Python, Node.js, React e tecnologias front-end. Possuo experiência na criação de aplicações web
+responsivas, projetos de automação e análise de dados utilizando bibliotecas como Pandas, NumPy e Matplotlib. Minha
+jornada profissional me proporcionou habilidades de resolução de problemas complexos, adaptabilidade, comunicação eficaz
+e um olhar crítico para a qualidade do software, que aplico no desenvolvimento de soluções tecnológicas e colaboração em
+projetos open source. 
+Atualmente, desenvolvo projetos com foco em desenvolvimento web, inteligência artificial e análise de dados, utilizando
+GitHub para versionamento e práticas de desenvolvimento colaborativo. Minha experiência com Django, React, TypeScript e
+bancos de dados como MongoDB e PostgreSQL me permite criar soluções completas e escaláveis, sempre buscando
+aprimorar minhas habilidades através de aprendizado contínuo e participação em bootcamps especializados em tecnologias
+front-end e back-end, além de metodologias e ferramentas de QA.
+
 </p>
 
 ### About me:
 
 <p>
-I am a Nursing Technician in a career transition to the technology area, studying cybersecurity at Faculdade Impacta de Tecnologia, attending three Bootcamps at DIO, one in partnership with SUZANO Python Developer, another in partnership with Avanade focused on Java, I am curious and dedicated, I constantly seek knowledge in this immense world of technology, in addition to the bootcamps I am also studying at DIO training in programming logic, Git and GitHub certification, Python Back-End, Front-End of zero in partnership with RiHappy and Fundamentals of Node.js.
+Full-Stack Developer with training in Cybersecurity and specialization in Software Quality (QA), qualified
+technically in Python, Node.js, React and front-end technologies. I have experience in creating web applications
+responsive, automation and data analysis projects using libraries such as Pandas, NumPy and Matplotlib. My
+professional journey has provided me with complex problem-solving skills, adaptability, effective communication
+and a critical look at software quality, which I apply in the development of technological solutions and collaboration in
+open source projects. 
+Currently, I develop projects focusing on web development, artificial intelligence and data analysis, using
+GitHub for versioning and collaborative development practices. My experience with Django, React, TypeScript and
+Databases like MongoDB and PostgreSQL allow me to create complete and scalable solutions, always looking for
+improve my skills through continuous learning and participation in specialized technology bootcamps
+front-end and back-end, as well as QA methodologies and tools.
 </p>
 
 ### Situação atual
 
-- 💻 Atuando em um projeto de Machine Learning (DIO) em transfer learning na [DIO Machine Learning transfer learning](https://github.com/recpires/DIO-Machine-Learning-transfer-learning) e em Conversão de Imagem [Conversão de Imagem ML](https://github.com/recpires/conversao-de-imagem-ml)
-- 📚 Em processo de aprendizagem em React [⚛️](https://reactjs.org/) e Docker [🐳](https://www.docker.com/)
+- 💻 Atuando em um projeto criando um ERP como Desenvolvedor Full-Stack & Automação de Processos
+- 📚 Em processo de aprendizagem em React [⚛️](https://reactjs.org/), Docker [🐳](https://www.docker.com/) e Java [☕︎](https://docs.oracle.com/en/java/)
 
 
 <div class="galeria_tech" align="center">
