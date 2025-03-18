@@ -103,6 +103,8 @@ My professional career has provided me with valuable skills such as complex prob
 |Formação Lógica de Programação|[Certificado](https://hermes.dio.me/certificates/PCGWEZWX.pdf)
 |BairesDev - Machine Learning Practitioner|[Certificado](https://hermes.dio.me/certificates/WMMQTTZU.pdf)
 |Formação Machine Learning Specialist|[Certificado](https://hermes.dio.me/certificates/37JOHFEB.pdf)
+|Formação Python Fundamentals|[Certificado](https://hermes.dio.me/certificates/VKLLPOLP.pdf)
+
 
 
 ### Conecte-se comigo
