@@ -105,6 +105,7 @@ My professional career has provided me with valuable skills such as complex prob
 |BairesDev - Machine Learning Practitioner|[Certificado](https://hermes.dio.me/certificates/WMMQTTZU.pdf)
 |Formação Machine Learning Specialist|[Certificado](https://hermes.dio.me/certificates/37JOHFEB.pdf)
 |Formação Python Fundamentals|[Certificado](https://hermes.dio.me/certificates/VKLLPOLP.pdf)
+|Suzano - Python Developer|[Certificado](https://hermes.dio.me/certificates/HS4R5KPS.pdf)
 
 
 
