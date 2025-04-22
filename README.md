@@ -82,6 +82,10 @@ My professional career has provided me with valuable skills such as complex prob
     <img src="https://assets.dio.me/wqFNFD1_7AKN1MpbZvurY1cUcpUXQ2ELMfW5Bi9R8VM/f:webp/h:120/q:80/L3RyYWNrcy9lN2MzZjVkNy0yMTEwLTQ3N2YtYmYxMS0wNjg3MjQzMjZjYzEucG5n" height="50px">
     <img src="https://assets.dio.me/kl4LftfYq7XVOkgxbC5VUxz6eeJ1eamce2qTGBQRAS4/f:webp/h:120/q:80/L3RyYWNrcy85OGQ1ZTlkMy0wN2EyLTRjNmUtOWNjYy1lNmNiN2ZhNDFiNjEucG5n" height="50px">
     <img src="https://assets.dio.me/QGBMU101QN38cA6c6M9ukxMZvjWMsUrEyHXYR7AAf2s/f:webp/h:120/q:80/L3RyYWNrcy9hNzM2ZWY0Mi0wZDJmLTQwNzktYWRiNC0yNWM1NWM4NWJhMmIucG5n" height="50px">
+    <img src="https://assets.dio.me/k71svgO76Wm3rok4N8TRVFDkN-yNBtvrU-WpG3i_Byk/f:webp/h:120/q:80/L3RyYWNrcy84N2ExZmEyOS1jYzJiLTQwNjgtODdlYi02M2VmNDYwMzVlZjQucG5n" height="50px">
+    <img src="https://assets.dio.me/SqMnk-_40m3vJHGEqaMYQV3qH6zf4HiFoO_liSwpfCU/f:webp/h:120/q:80/L3RyYWNrcy9lM2U3YjA1Mi1hYzJiLTRhZGMtODAzMS1hZDAxZDY1NjM1NjQucG5n" height="50px">
+    <img src="https://assets.dio.me/w1dt0anJB7fK8QpuoG2aXL1oRX7mWxyF2-wx1phsPUc/f:webp/h:120/q:80/L3RyYWNrcy9kNWQ4M2ZkNC0zOTljLTRiOTctOGUyZS03OTNiYjg3ZTYzMGEucG5n" height="50px">
+    
 
   <br>
   <h1>Sistemas Operacionais</h1>
