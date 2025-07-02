@@ -85,6 +85,7 @@ My professional career has provided me with valuable skills such as complex prob
     <img src="https://assets.dio.me/k71svgO76Wm3rok4N8TRVFDkN-yNBtvrU-WpG3i_Byk/f:webp/h:120/q:80/L3RyYWNrcy84N2ExZmEyOS1jYzJiLTQwNjgtODdlYi02M2VmNDYwMzVlZjQucG5n" height="50px">
     <img src="https://assets.dio.me/SqMnk-_40m3vJHGEqaMYQV3qH6zf4HiFoO_liSwpfCU/f:webp/h:120/q:80/L3RyYWNrcy9lM2U3YjA1Mi1hYzJiLTRhZGMtODAzMS1hZDAxZDY1NjM1NjQucG5n" height="50px">
     <img src="https://assets.dio.me/w1dt0anJB7fK8QpuoG2aXL1oRX7mWxyF2-wx1phsPUc/f:webp/h:120/q:80/L3RyYWNrcy9kNWQ4M2ZkNC0zOTljLTRiOTctOGUyZS03OTNiYjg3ZTYzMGEucG5n" height="50px">
+    <img src="https://assets.dio.me/Ypa0a_wYeZqQ_cKqtU1uiwbYknySjeGRUmwnQ8gVHqg/f:webp/h:120/q:80/L3RyYWNrcy9iZjZjOWIwYS0wY2FjLTRkMjYtYTIzNy00NWVmODlkZDgwYjIucG5n" height="50px">
     
 
   <br>
@@ -110,6 +111,7 @@ My professional career has provided me with valuable skills such as complex prob
 |Formação Machine Learning Specialist|[Certificado](https://hermes.dio.me/certificates/37JOHFEB.pdf)
 |Formação Python Fundamentals|[Certificado](https://hermes.dio.me/certificates/VKLLPOLP.pdf)
 |Suzano - Python Developer|[Certificado](https://hermes.dio.me/certificates/HS4R5KPS.pdf)
+|Santander 2025 - Back-End com Python|[Certificado](https://hermes.dio.me/certificates/LFSIBREH.pdf)
 
 
 
