@@ -40,12 +40,10 @@ My professional career has provided me with valuable skills such as complex prob
   <img src="https://skillicons.dev/icons?i=javascript" height="50px">
   <img src="https://skillicons.dev/icons?i=react" height="50"/>
   <img src="https://skillicons.dev/icons?i=nodejs" height="50px"/>
-  <img src="https://skillicons.dev/icons?i=nextjs" height="50"/>
   <img src="https://skillicons.dev/icons?i=typescript" height="50"/>
   <img src="https://skillicons.dev/icons?i=cs" height="50px">
   <img src="https://skillicons.dev/icons?i=dotnet" height="50"/>
-  <img src="https://skillicons.dev/icons?i=java" height="50"/>
-  <img src="https://skillicons.dev/icons?i=spring" height="50"/>
+  <img src="https://skillicons.dev/icons?i=angular" height="50"/>
 
   <br>
   <h1>Banco de Dados</h1>
@@ -57,7 +55,6 @@ My professional career has provided me with valuable skills such as complex prob
   <br>
   <h1>Outras Tecnologias</h1>
   <img src="https://skillicons.dev/icons?i=vscode" height="50"/>
-  <img src="https://skillicons.dev/icons?i=sublime" height="50"/>
   <img src="https://skillicons.dev/icons?i=git" height="50"/>
   <img src="https://skillicons.dev/icons?i=github" height="50"/>
   <img src="https://skillicons.dev/icons?i=docker" height="50"/>
