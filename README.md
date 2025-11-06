@@ -55,6 +55,7 @@ My professional career has provided me with valuable skills such as complex prob
   <br>
   <h1>Outras Tecnologias</h1>
   <img src="https://skillicons.dev/icons?i=vscode" height="50"/>
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="50"/>
   <img src="https://skillicons.dev/icons?i=git" height="50"/>
   <img src="https://skillicons.dev/icons?i=github" height="50"/>
   <img src="https://skillicons.dev/icons?i=docker" height="50"/>
