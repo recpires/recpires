@@ -152,7 +152,7 @@ open_to:        Colaborações / Freelance / Oportunidades
 
 <sub>Baseado em atividade real no GitHub · Based on real GitHub activity</sub>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=recpires&theme=matrix&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=6&exclude=EXPERIENCE,ISSUES,REVIEWS&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=recpires&theme=matrix&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=6&exclude=Experience,Issues,Reviews)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
