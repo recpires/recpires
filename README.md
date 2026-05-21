@@ -146,11 +146,13 @@ open_to:        Colaborações / Freelance / Oportunidades
 
 ---
 
-## 🏆 Trophies
+## 🏆 Conquistas / Achievements
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=recpires&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<sub>Baseado em atividade real no GitHub · Based on real GitHub activity</sub>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=recpires&theme=matrix&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=6&exclude=EXPERIENCE,ISSUES,REVIEWS&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
