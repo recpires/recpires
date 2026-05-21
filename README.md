@@ -160,7 +160,32 @@ open_to:        Colaborações / Freelance / Oportunidades
 ## 📜 Certificações / Certifications
 
 <details>
-<summary><b>🎓 Ver todas as certificações (clique para expandir)</b></summary>
+<summary><b>🎓 Ver bootcamps e certificações (clique para expandir)</b></summary>
+
+<br>
+
+### 🏫 Bootcamps Concluídos
+
+<div align="center">
+
+<img src="https://assets.dio.me/JdBTHUCmNxrrJUiTJ2Xr3uCb3ERnBFWVbLU0kZlfxpY/f:webp/h:120/q:80/L3RyYWNrcy85NzdkMWI0MS01ODg4LTQ0ZDctOGU0Yy01N2QyMzQ4NzQ4ZGMucG5n" height="60px" title="Bootcamp DIO" />
+<img src="https://assets.dio.me/N3ET28fsUKPyJZb6mh6vdqhVziWjbk3xPNlE_velBWs/f:webp/h:120/q:80/L3RyYWNrcy85NzIyOTdkYy00MzU3LTRhZjQtYWJlYS04OWEzODg1M2E5NDkucG5n" height="60px" title="Bootcamp DIO" />
+<img src="https://assets.dio.me/kCPUcBRKwIhY3--gHdSspiZWdpUXMS2UD0wXM7klMb4/f:webp/h:120/q:80/L3RyYWNrcy81NzQ0ODVlZS0xZTk1LTQzMjAtOThlYy1kMTUyZGQ4ZDk5YmQucG5n" height="60px" title="Bootcamp DIO" />
+<img src="https://assets.dio.me/OTzqoUcfTvgJRGhPlCoXZXzVWpFQB5yO-pygSZ_CTv8/f:webp/h:120/q:80/L3RyYWNrcy9iMTkzMDhmZi05NDMxLTQ4ZTktOWM3Yi01Y2YwMWRkNWVjMjQucG5n" height="60px" title="Bootcamp DIO" />
+<img src="https://assets.dio.me/vKS7Q5G0wquZ8uE6GlzHCIP3mgAOcl-1TZg4zvTvgho/f:webp/h:120/q:80/L3RyYWNrcy80YzRjNzc2MC1hY2YwLTQ5MjctOTdhMS01ZjQ3ZWFlMDExYWQucG5n" height="60px" title="Bootcamp DIO" />
+<img src="https://assets.dio.me/wqFNFD1_7AKN1MpbZvurY1cUcpUXQ2ELMfW5Bi9R8VM/f:webp/h:120/q:80/L3RyYWNrcy9lN2MzZjVkNy0yMTEwLTQ3N2YtYmYxMS0wNjg3MjQzMjZjYzEucG5n" height="60px" title="Bootcamp DIO" />
+<img src="https://assets.dio.me/kl4LftfYq7XVOkgxbC5VUxz6eeJ1eamce2qTGBQRAS4/f:webp/h:120/q:80/L3RyYWNrcy85OGQ1ZTlkMy0wN2EyLTRjNmUtOWNjYy1lNmNiN2ZhNDFiNjEucG5n" height="60px" title="Bootcamp DIO" />
+<img src="https://assets.dio.me/QGBMU101QN38cA6c6M9ukxMZvjWMsUrEyHXYR7AAf2s/f:webp/h:120/q:80/L3RyYWNrcy9hNzM2ZWY0Mi0wZDJmLTQwNzktYWRiNC0yNWM1NWM4NWJhMmIucG5n" height="60px" title="Bootcamp DIO" />
+<img src="https://assets.dio.me/k71svgO76Wm3rok4N8TRVFDkN-yNBtvrU-WpG3i_Byk/f:webp/h:120/q:80/L3RyYWNrcy84N2ExZmEyOS1jYzJiLTQwNjgtODdlYi02M2VmNDYwMzVlZjQucG5n" height="60px" title="Bootcamp DIO" />
+<img src="https://assets.dio.me/SqMnk-_40m3vJHGEqaMYQV3qH6zf4HiFoO_liSwpfCU/f:webp/h:120/q:80/L3RyYWNrcy9lM2U3YjA1Mi1hYzJiLTRhZGMtODAzMS1hZDAxZDY1NjM1NjQucG5n" height="60px" title="Bootcamp DIO" />
+<img src="https://assets.dio.me/w1dt0anJB7fK8QpuoG2aXL1oRX7mWxyF2-wx1phsPUc/f:webp/h:120/q:80/L3RyYWNrcy9kNWQ4M2ZkNC0zOTljLTRiOTctOGUyZS03OTNiYjg3ZTYzMGEucG5n" height="60px" title="Bootcamp DIO" />
+<img src="https://assets.dio.me/Ypa0a_wYeZqQ_cKqtU1uiwbYknySjeGRUmwnQ8gVHqg/f:webp/h:120/q:80/L3RyYWNrcy9iZjZjOWIwYS0wY2FjLTRkMjYtYTIzNy00NWVmODlkZDgwYjIucG5n" height="60px" title="Bootcamp DIO" />
+
+</div>
+
+<br>
+
+### 📄 Certificados
 
 | Curso / Course | Certificado / Certificate |
 |---|---|
