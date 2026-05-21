@@ -136,8 +136,8 @@ open_to:        Colaborações / Freelance / Oportunidades
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=recpires&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00FF88&text_color=ffffff&icon_color=00FF88" width="48%" />
-<img src="https://streak-stats.demolab.com?user=recpires&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00FF88&fire=00FF88&currStreakLabel=00FF88&stroke=00FF88&dates=ffffff" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=recpires&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF88&text_color=ffffff&icon_color=00FF88" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=recpires&theme=dark&hide_border=true&background=0d1117&ring=00FF88&fire=00FF88&currStreakLabel=00FF88&sideLabels=00FF88&dates=aaaaaa" width="48%" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=recpires&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF88&text_color=ffffff&langs_count=8" width="48%" />
 
