@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Rodrigo+Pires+%F0%9F%91%8B;Full-Stack+Developer;Cybersecurity+%7C+QA+Specialist;Founder+%40+Synapse+Code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Rodrigo+Pires+%F0%9F%91%8B;Full-Stack+Developer;Cybersecurity+%7C+QA+Specialist;Founder+%26+CTO+%40+Synapse+Code)](https://git.io/typing-svg)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00FF88,100:0d1117&height=120&section=header" width="100%" />
 
@@ -22,7 +22,7 @@
 
 Olá! Sou **Rodrigo Pires**, Desenvolvedor Full-Stack com sólida base em **Cibersegurança** e especialização em **Qualidade de Software (QA)**.
 
-Fundei a **[Synapse Code](mailto:contato.synapsecode@gmail.com)** — uma empresa focada em soluções de software de alta performance, agentes de IA e sistemas escaláveis para o mercado brasileiro.
+Sou **Fundador e CTO** da **[Synapse Code](mailto:contato.synapsecode@gmail.com)** — uma empresa focada em soluções de software de alta performance, agentes de IA e sistemas escaláveis para o mercado brasileiro.
 
 Atualmente desenvolvo um **ERP completo** como Full-Stack Developer, com automação de processos para otimização de eficiência. Sou apaixonado por **Inteligência Artificial**, análise de dados e arquiteturas modernas.
 
@@ -33,7 +33,7 @@ Atualmente desenvolvo um **ERP completo** como Full-Stack Developer, com automa�
 
 Hi! I'm **Rodrigo Pires**, a Full-Stack Developer with a solid foundation in **Cybersecurity** and specialization in **Software Quality (QA)**.
 
-I founded **[Synapse Code](mailto:contato.synapsecode@gmail.com)** — a company focused on high-performance software solutions, AI agents, and scalable systems.
+I'm the **Founder & CTO** of **[Synapse Code](mailto:contato.synapsecode@gmail.com)** — a company focused on high-performance software solutions, AI agents, and scalable systems.
 
 Currently building a **complete ERP** as a Full-Stack Developer, implementing process automation to maximize operational efficiency. Passionate about **Artificial Intelligence**, data analysis and modern architectures.
 
@@ -47,7 +47,7 @@ Currently building a **complete ERP** as a Full-Stack Developer, implementing pr
 
 <div align="center">
 
-> **Fundador & Desenvolvedor Principal**
+> **Fundador, CTO & Desenvolvedor Principal**
 >
 > Desenvolvemos agentes de IA, sistemas SaaS, automações e produtos digitais de alta qualidade.
 > Trabalhamos com arquiteturas modernas — do backend robusto ao frontend refinado.
@@ -61,7 +61,7 @@ Currently building a **complete ERP** as a Full-Stack Developer, implementing pr
 ## 🚀 Status Atual / Current Status
 
 ```yaml
-position:       Full-Stack Developer & Founder @ Synapse Code
+position:       Founder, CTO & Full-Stack Developer @ Synapse Code
 current_project: ERP Completo + Automação de Processos
 learning:       React Advanced Patterns · Docker · Java (Spring)
 focus:          AI Agents · SaaS Architecture · Data Analysis
@@ -137,11 +137,11 @@ open_to:        Colaborações / Freelance / Oportunidades
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=recpires&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00FF88&text_color=ffffff&icon_color=00FF88" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=recpires&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00FF88&fire=00FF88&currStreakLabel=00FF88" width="48%" />
+<img src="https://streak-stats.demolab.com?user=recpires&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00FF88&fire=00FF88&currStreakLabel=00FF88&stroke=00FF88&dates=ffffff" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=recpires&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF88&text_color=ffffff" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=recpires&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF88&text_color=ffffff&langs_count=8" width="48%" />
 
-<img src="https://github-contributor-stats.vercel.app/api?username=recpires&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true" width="48%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=recpires&bg_color=0d1117&color=00FF88&line=00FF88&point=ffffff&area=true&hide_border=true" width="98%" />
 
 </div>
 
@@ -199,7 +199,7 @@ open_to:        Colaborações / Freelance / Oportunidades
 [![GitHub](https://img.shields.io/badge/GitHub-recpires-00FF88?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/recpires)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-recpires-00FF88?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/recpires/)
 [![Gmail](https://img.shields.io/badge/Gmail-dev.rodrigopires-00FF88?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:dev.rodrigopires@gmail.com)
-[![Synapse Code](https://img.shields.io/badge/Synapse_Code-Founder-00FF88?style=for-the-badge&logo=rocket&logoColor=white&labelColor=0d1117)](mailto:contato.synapsecode@gmail.com)
+[![Synapse Code](https://img.shields.io/badge/Synapse_Code-Founder_%26_CTO-00FF88?style=for-the-badge&logo=rocket&logoColor=white&labelColor=0d1117)](mailto:contato.synapsecode@gmail.com)
 
 </div>
 
