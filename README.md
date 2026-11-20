@@ -32,7 +32,7 @@ Minha experiência anterior como técnico de enfermagem em centro cirúrgico ori
 | [lumIA](https://ia-lumia.com.br/) | Agentes de IA para site e WhatsApp, com busca em bases de conhecimento, qualificação de leads e transferência para atendimento humano. Selecionado para o Backstage #2 da Rock New Ventures em 2026. | Next.js · PostgreSQL · pgvector |
 | [FluencyIA](https://fluencyia.com.br/) | Prática de conversação em inglês com IA, correções em tempo real e acompanhamento da evolução pelo Fluency Score. | .NET · React · Supabase |
 | [Crivo IA](https://crivo-ia.vercel.app/) | Leitura de documentos jurídicos com OCR e busca semântica. | ASP.NET Core · Next.js · FastAPI · pgvector |
-| Orquestra Business OS | Gestão para software houses e agências, do briefing e da proposta ao acompanhamento da margem do projeto. | Next.js · Supabase · Playwright |
+| [Orquestra Business OS](https://orquestraos.com.br/) | Gestão para software houses e agências, do briefing e da proposta ao acompanhamento da margem do projeto. | Next.js · Supabase · Playwright |
 
 ### Smart Health Mirror · 1º lugar na FIAP NEXT 2026
 
