@@ -72,6 +72,13 @@ Projeto de iniciação científica em equipe que combina sensores e software em 
 
 Cybersecurity na FIAP, Especialista em IA na Alura e formações da DIO em cibersegurança, machine learning, Python e .NET.
 
+### Certificados FIAP
+
+| Curso | Carga horária | Data | Certificado |
+| --- | --- | --- | --- |
+| Qualificação Profissional em Análise de Sistemas e Prototipação Web | — | jun/2026 | [Validar na FIAP](https://www.fiap.com.br/consultadocumento) · código `521A3E76` |
+| Nano Course Cybersecurity | 120 h | nov/2026 | [Ver PDF](certificados/fiap-nano-cybersecurity/doc.pdf) |
+
 <details>
 <summary>Certificados DIO</summary>
 
