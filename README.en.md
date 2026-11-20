@@ -7,6 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-recpires-00BFFF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/recpires/)
 [![Email](https://img.shields.io/badge/E--mail-contact-800080?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:dev.rodrigopires@gmail.com)
 [![Synapse Code](https://img.shields.io/badge/Synapse%20Code-synapsecode.com.br-00BFFF?style=for-the-badge&logoColor=white&labelColor=000000)](https://synapsecode.com.br/)
+[![Angaris Tecnologia](https://img.shields.io/badge/Angaris%20Tecnologia-angaristecnologia.com.br-800080?style=for-the-badge&logoColor=white&labelColor=000000)](https://angaristecnologia.com.br/)
 [![GitHub followers](https://img.shields.io/github/followers/recpires?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=800080&labelColor=000000)](https://github.com/recpires)
 [![Profile views](https://komarev.com/ghpvc/?username=recpires&color=00bfff&style=for-the-badge&labelColor=000000&label=PROFILE+VIEWS)](https://github.com/recpires)
 
@@ -19,7 +20,7 @@
 ## Technical leadership
 
 - **[Synapse Code](https://synapsecode.com.br/)** — I lead software architecture, development, and the technical roadmap for SaaS products, apps, and AI solutions. My work includes setting engineering standards and building automated testing, CI/CD pipelines, and production infrastructure.
-- **Angaris Tecnologia** — I lead technical development of **Angaris Core**, an electronic health record platform in development. It focuses on longitudinal patient records, interoperability across systems, and traceability of clinical records.
+- **[Angaris Tecnologia](https://angaristecnologia.com.br/)** — I lead technical development of **Angaris Core**, an electronic health record platform in development. It focuses on longitudinal patient records, interoperability across systems, and traceability of clinical records.
 
 My background as a surgical nursing technician informs how I design clinical workflows and auditable records. I am studying Systems Analysis and Development at FIAP, with expected graduation in 2027.
 
@@ -71,6 +72,13 @@ A team undergraduate research project that combines sensors and software in an i
 
 Cybersecurity at FIAP, AI Specialist training at Alura, and DIO training in cybersecurity, machine learning, Python, and .NET.
 
+### FIAP certificates
+
+| Course | Workload | Date | Certificate |
+| --- | --- | --- | --- |
+| Professional Qualification in System Analysis and Web Prototyping | — | Jun 2026 | [Verify at FIAP](https://www.fiap.com.br/consultadocumento) · code `521A3E76` |
+| Cybersecurity Nano Course | 120 h | Nov 2026 | [View PDF](certificados/fiap-nano-cybersecurity/doc.pdf) |
+
 <details>
 <summary>DIO certificates</summary>
 
@@ -94,6 +102,6 @@ Cybersecurity at FIAP, AI Specialist training at Alura, and DIO training in cybe
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/recpires/) · [Professional email](mailto:dev.rodrigopires@gmail.com) · [GitHub repositories](https://github.com/recpires?tab=repositories)
+[Synapse Code](https://synapsecode.com.br/) · [Angaris Tecnologia](https://angaristecnologia.com.br/) · [LinkedIn](https://www.linkedin.com/in/recpires/) · [Professional email](mailto:dev.rodrigopires@gmail.com) · [GitHub repositories](https://github.com/recpires?tab=repositories)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:800080,100:00BFFF&height=120&section=footer" width="100%" />
