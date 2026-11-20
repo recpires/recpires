@@ -7,6 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-recpires-00BFFF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/recpires/)
 [![Email](https://img.shields.io/badge/E--mail-profissional-800080?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:dev.rodrigopires@gmail.com)
 [![Synapse Code](https://img.shields.io/badge/Synapse%20Code-synapsecode.com.br-00BFFF?style=for-the-badge&logoColor=white&labelColor=000000)](https://synapsecode.com.br/)
+[![Angaris Tecnologia](https://img.shields.io/badge/Angaris%20Tecnologia-angaristecnologia.com.br-800080?style=for-the-badge&logoColor=white&labelColor=000000)](https://angaristecnologia.com.br/)
 [![GitHub followers](https://img.shields.io/github/followers/recpires?style=for-the-badge&logo=github&logoColor=white&label=Seguidores&color=800080&labelColor=000000)](https://github.com/recpires)
 [![Profile views](https://komarev.com/ghpvc/?username=recpires&color=00bfff&style=for-the-badge&labelColor=000000&label=VISUALIZA%C3%87%C3%95ES)](https://github.com/recpires)
 
@@ -19,7 +20,7 @@
 ## Liderança técnica
 
 - **[Synapse Code](https://synapsecode.com.br/)** — Lidero a arquitetura, o desenvolvimento e o roadmap técnico de produtos SaaS, aplicativos e soluções de IA. Meu trabalho inclui definir padrões de engenharia e estruturar testes automatizados, CI/CD e infraestrutura de produção.
-- **Angaris Tecnologia** — Lidero a evolução técnica do **Angaris Core**, uma plataforma de prontuário eletrônico em desenvolvimento. O projeto tem foco no histórico longitudinal do paciente, na interoperabilidade entre sistemas e na rastreabilidade dos registros clínicos.
+- **[Angaris Tecnologia](https://angaristecnologia.com.br/)** — Lidero a evolução técnica do **Angaris Core**, uma plataforma de prontuário eletrônico em desenvolvimento. O projeto tem foco no histórico longitudinal do paciente, na interoperabilidade entre sistemas e na rastreabilidade dos registros clínicos.
 
 Minha experiência anterior como técnico de enfermagem em centro cirúrgico orienta como projeto fluxos clínicos e registros auditáveis. Curso Análise e Desenvolvimento de Sistemas na FIAP, com conclusão prevista para 2027.
 
@@ -102,6 +103,6 @@ Cybersecurity na FIAP, Especialista em IA na Alura e formações da DIO em ciber
 
 ## Contato
 
-[LinkedIn](https://www.linkedin.com/in/recpires/) · [E-mail profissional](mailto:dev.rodrigopires@gmail.com) · [Repositórios no GitHub](https://github.com/recpires?tab=repositories)
+[Synapse Code](https://synapsecode.com.br/) · [Angaris Tecnologia](https://angaristecnologia.com.br/) · [LinkedIn](https://www.linkedin.com/in/recpires/) · [E-mail profissional](mailto:dev.rodrigopires@gmail.com) · [Repositórios no GitHub](https://github.com/recpires?tab=repositories)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:800080,100:00BFFF&height=120&section=footer" width="100%" />
