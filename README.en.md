@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00BFFF&center=true&vCenter=true&width=640&lines=CTO%20%26%20Co-founder%20%40%20Synapse%20Code;CTO%20%40%20Angaris%20Tecnologia;Software%20architecture%20%C2%B7%20SaaS%20%C2%B7%20Applied%20AI;Digital%20health%20with%20auditable%20records)](https://github.com/recpires)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-recpires-00BFFF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/recpires/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rodrigopirescto-00BFFF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/rodrigopirescto)
 [![Email](https://img.shields.io/badge/E--mail-contact-800080?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:dev.rodrigopires@gmail.com)
 [![Synapse Code](https://img.shields.io/badge/Synapse%20Code-synapsecode.com.br-00BFFF?style=for-the-badge&logoColor=white&labelColor=000000)](https://synapsecode.com.br/)
 [![Angaris Tecnologia](https://img.shields.io/badge/Angaris%20Tecnologia-angaristecnologia.com.br-800080?style=for-the-badge&logoColor=white&labelColor=000000)](https://angaristecnologia.com.br/)
@@ -102,6 +102,6 @@ Cybersecurity at FIAP, AI Specialist training at Alura, and DIO training in cybe
 
 ## Contact
 
-[Synapse Code](https://synapsecode.com.br/) · [Angaris Tecnologia](https://angaristecnologia.com.br/) · [LinkedIn](https://www.linkedin.com/in/recpires/) · [Professional email](mailto:dev.rodrigopires@gmail.com) · [GitHub repositories](https://github.com/recpires?tab=repositories)
+[Synapse Code](https://synapsecode.com.br/) · [Angaris Tecnologia](https://angaristecnologia.com.br/) · [LinkedIn](https://www.linkedin.com/in/rodrigopirescto) · [Professional email](mailto:dev.rodrigopires@gmail.com) · [GitHub repositories](https://github.com/recpires?tab=repositories)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:800080,100:00BFFF&height=120&section=footer" width="100%" />
