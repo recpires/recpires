@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00BFFF&center=true&vCenter=true&width=640&lines=CTO%20e%20cofundador%20%40%20Synapse%20Code;CTO%20%40%20Angaris%20Tecnologia;Arquitetura%20de%20software%20%C2%B7%20SaaS%20%C2%B7%20IA%20aplicada;Sa%C3%BAde%20digital%20com%20registros%20audit%C3%A1veis)](https://github.com/recpires)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-recpires-00BFFF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/recpires/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rodrigopirescto-00BFFF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/rodrigopirescto)
 [![Email](https://img.shields.io/badge/E--mail-profissional-800080?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:dev.rodrigopires@gmail.com)
 [![Synapse Code](https://img.shields.io/badge/Synapse%20Code-synapsecode.com.br-00BFFF?style=for-the-badge&logoColor=white&labelColor=000000)](https://synapsecode.com.br/)
 [![Angaris Tecnologia](https://img.shields.io/badge/Angaris%20Tecnologia-angaristecnologia.com.br-800080?style=for-the-badge&logoColor=white&labelColor=000000)](https://angaristecnologia.com.br/)
@@ -103,6 +103,6 @@ Cybersecurity na FIAP, Especialista em IA na Alura e formações da DIO em ciber
 
 ## Contato
 
-[Synapse Code](https://synapsecode.com.br/) · [Angaris Tecnologia](https://angaristecnologia.com.br/) · [LinkedIn](https://www.linkedin.com/in/recpires/) · [E-mail profissional](mailto:dev.rodrigopires@gmail.com) · [Repositórios no GitHub](https://github.com/recpires?tab=repositories)
+[Synapse Code](https://synapsecode.com.br/) · [Angaris Tecnologia](https://angaristecnologia.com.br/) · [LinkedIn](https://www.linkedin.com/in/rodrigopirescto) · [E-mail profissional](mailto:dev.rodrigopires@gmail.com) · [Repositórios no GitHub](https://github.com/recpires?tab=repositories)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:800080,100:00BFFF&height=120&section=footer" width="100%" />
