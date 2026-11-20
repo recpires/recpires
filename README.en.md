@@ -63,6 +63,8 @@ A team undergraduate research project that combines sensors and software in an i
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=recpires&bg_color=000000&color=FFFFFF&line=00BFFF&point=800080&area=true&area_color=00BFFF&hide_border=true" width="98%" alt="Contribution graph" />
 
+<img src="https://raw.githubusercontent.com/recpires/recpires/output/github-snake-synapse.svg" width="98%" alt="Snake animation of contributions" />
+
 </div>
 
 ## Professional development
