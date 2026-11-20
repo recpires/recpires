@@ -1,240 +1,64 @@
-<div align="center">
+# Rodrigo Pires
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Rodrigo+Pires+%F0%9F%91%8B;Full-Stack+Developer;Cybersecurity+%7C+QA+Specialist;Founder+%26+CTO+%40+Synapse+Code)](https://git.io/typing-svg)
+**CTO e cofundador da Synapse Code · CTO da Angaris Tecnologia**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00FF88,100:0d1117&height=120&section=header" width="100%" />
+Arquitetura de software · Desenvolvimento full-stack · SaaS, IA aplicada e saúde digital
 
-[![GitHub followers](https://img.shields.io/github/followers/recpires?style=for-the-badge&color=00FF88&labelColor=0d1117&logo=github)](https://github.com/recpires)
-[![Profile Views](https://komarev.com/ghpvc/?username=recpires&style=for-the-badge&color=00FF88&label=PROFILE+VIEWS)](https://github.com/recpires)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00FF88?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/recpires/)
+**Português** · [Read in English](README.en.md)
 
-</div>
+## Liderança técnica
 
----
+- **[Synapse Code](https://synapsecode.com.br/)** — Lidero a arquitetura, o desenvolvimento e o roadmap técnico de produtos SaaS, aplicativos e soluções de IA. Meu trabalho inclui definir padrões de engenharia e estruturar testes automatizados, CI/CD e infraestrutura de produção.
+- **Angaris Tecnologia** — Lidero a evolução técnica do **Angaris Core**, uma plataforma de prontuário eletrônico em desenvolvimento. O projeto tem foco no histórico longitudinal do paciente, na interoperabilidade entre sistemas e na rastreabilidade dos registros clínicos.
 
-## 🧠 Sobre Mim / About Me
+Minha experiência anterior como técnico de enfermagem em centro cirúrgico orienta como projeto fluxos clínicos e registros auditáveis. Curso Análise e Desenvolvimento de Sistemas na FIAP, com conclusão prevista para 2027.
 
-<table>
-<tr>
-<td width="50%">
+## Projetos selecionados
 
-### 🇧🇷 Português
+| Projeto | O que resolve | Tecnologias |
+| --- | --- | --- |
+| [NeroBarber](https://nerobarber.com.br/) | Gestão de barbearias com agenda por profissional, assinaturas e indicadores financeiros. | Next.js · Supabase · Asaas |
+| [lumIA](https://ia-lumia.com.br/) | Agentes de IA para site e WhatsApp, com busca em bases de conhecimento, qualificação de leads e transferência para atendimento humano. Selecionado para o Backstage #2 da Rock New Ventures em 2026. | Next.js · PostgreSQL · pgvector |
+| [FluencyIA](https://fluencyia.com.br/) | Prática de conversação em inglês com IA, correções em tempo real e acompanhamento da evolução pelo Fluency Score. | .NET · React · Supabase |
+| [Crivo IA](https://crivo-ia.vercel.app/) | Leitura de documentos jurídicos com OCR e busca semântica. | ASP.NET Core · Next.js · FastAPI · pgvector |
+| Orquestra Business OS | Gestão para software houses e agências, do briefing e da proposta ao acompanhamento da margem do projeto. | Next.js · Supabase · Playwright |
 
-Olá! Sou **Rodrigo Pires**, Desenvolvedor Full-Stack com sólida base em **Cibersegurança** e especialização em **Qualidade de Software (QA)**.
+### Smart Health Mirror · 1º lugar na FIAP NEXT 2026
 
-Sou **Fundador e CTO** da **[Synapse Code](mailto:contato.synapsecode@gmail.com)** — uma empresa focada em soluções de software de alta performance, agentes de IA e sistemas escaláveis para o mercado brasileiro.
+Projeto de iniciação científica em equipe que combina sensores e software em um espelho interativo para monitoramento biométrico e bem-estar. Desenvolvido com Python, React, Supabase e ESP32 (C++).
 
-Atualmente desenvolvo um **ERP completo** como Full-Stack Developer, com automação de processos para otimização de eficiência. Sou apaixonado por **Inteligência Artificial**, análise de dados e arquiteturas modernas.
+## Engenharia
 
-</td>
-<td width="50%">
+- **Back-end e arquitetura** — C#/.NET, Python, Node.js, APIs REST, DDD, CQRS e SaaS multi-tenant.
+- **Web e mobile** — TypeScript, React, Next.js, React Native e Kotlin.
+- **Dados e IA** — PostgreSQL, Supabase, pgvector, RAG e agentes com LLMs.
+- **Qualidade e entrega** — testes unitários, de integração e de ponta a ponta, Playwright, Docker e GitHub Actions.
 
-### 🌎 English
+## Formação complementar
 
-Hi! I'm **Rodrigo Pires**, a Full-Stack Developer with a solid foundation in **Cybersecurity** and specialization in **Software Quality (QA)**.
-
-I'm the **Founder & CTO** of **[Synapse Code](mailto:contato.synapsecode@gmail.com)** — a company focused on high-performance software solutions, AI agents, and scalable systems.
-
-Currently building a **complete ERP** as a Full-Stack Developer, implementing process automation to maximize operational efficiency. Passionate about **Artificial Intelligence**, data analysis and modern architectures.
-
-</td>
-</tr>
-</table>
-
----
-
-## 🏢 Synapse Code
-
-<div align="center">
-
-> **Fundador, CTO & Desenvolvedor Principal**
->
-> Desenvolvemos agentes de IA, sistemas SaaS, automações e produtos digitais de alta qualidade.
-> Trabalhamos com arquiteturas modernas — do backend robusto ao frontend refinado.
-
-[![Email](https://img.shields.io/badge/contato.synapsecode@gmail.com-Fale+Conosco-00FF88?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:contato.synapsecode@gmail.com)
-
-</div>
-
----
-
-## 🚀 Status Atual / Current Status
-
-```yaml
-position:       Founder, CTO & Full-Stack Developer @ Synapse Code
-current_project: ERP Completo + Automação de Processos
-learning:       React Advanced Patterns · Docker · Java (Spring)
-focus:          AI Agents · SaaS Architecture · Data Analysis
-open_to:        Colaborações / Freelance / Oportunidades
-```
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00FF88)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=00FF88)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=00FF88)
-![C#](https://img.shields.io/badge/C%23-0d1117?style=for-the-badge&logo=csharp&logoColor=00FF88)
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=00FF88)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=00FF88)
-
-</div>
-
-### ⚙️ Frameworks & Libraries
-<div align="center">
-
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=00FF88)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=00FF88)
-![.NET](https://img.shields.io/badge/.NET-0d1117?style=for-the-badge&logo=dotnet&logoColor=00FF88)
-![Django](https://img.shields.io/badge/Django-0d1117?style=for-the-badge&logo=django&logoColor=00FF88)
-![Flask](https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=00FF88)
-![Angular](https://img.shields.io/badge/Angular-0d1117?style=for-the-badge&logo=angular&logoColor=00FF88)
-![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=00FF88)
-![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=00FF88)
-
-</div>
-
-### 🗄️ Databases
-<div align="center">
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=00FF88)
-![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=00FF88)
-![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=00FF88)
-![SQLite](https://img.shields.io/badge/SQLite-0d1117?style=for-the-badge&logo=sqlite&logoColor=00FF88)
-
-</div>
-
-### ☁️ Cloud & DevOps
-<div align="center">
-
-![GCP](https://img.shields.io/badge/Google_Cloud-0d1117?style=for-the-badge&logo=googlecloud&logoColor=00FF88)
-![Azure](https://img.shields.io/badge/Azure-0d1117?style=for-the-badge&logo=microsoftazure&logoColor=00FF88)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=00FF88)
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=00FF88)
-![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00FF88)
-
-</div>
-
-### 🔬 AI & Data Science
-<div align="center">
-
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=00FF88)
-![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=00FF88)
-![Anaconda](https://img.shields.io/badge/Anaconda-0d1117?style=for-the-badge&logo=anaconda&logoColor=00FF88)
-![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=for-the-badge&logo=opencv&logoColor=00FF88)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-0d1117?style=for-the-badge&logo=python&logoColor=00FF88)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=recpires&theme=chartreuse_dark" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=recpires&theme=chartreuse_dark" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=recpires&theme=chartreuse_dark" width="32%" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=recpires&theme=chartreuse_dark" width="98%" />
-
-</div>
-
----
-
-## 🏆 Conquistas / Achievements
-
-<div align="center">
-
-<sub>Baseado em atividade real no GitHub · Based on real GitHub activity</sub>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=recpires&theme=matrix&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=6&title=MultiLanguage,Repositories,Commits,PullRequest,Followers,Stars)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📜 Certificações / Certifications
+Cybersecurity na FIAP, Especialista em IA na Alura e formações da DIO em cibersegurança, machine learning, Python e .NET.
 
 <details>
-<summary><b>🎓 Ver bootcamps e certificações (clique para expandir)</b></summary>
+<summary>Certificados DIO</summary>
 
-<br>
-
-### 🏫 Bootcamps Concluídos
-
-<div align="center">
-
-<img src="https://assets.dio.me/JdBTHUCmNxrrJUiTJ2Xr3uCb3ERnBFWVbLU0kZlfxpY/f:webp/h:120/q:80/L3RyYWNrcy85NzdkMWI0MS01ODg4LTQ0ZDctOGU0Yy01N2QyMzQ4NzQ4ZGMucG5n" height="60px" title="Bootcamp DIO" />
-<img src="https://assets.dio.me/N3ET28fsUKPyJZb6mh6vdqhVziWjbk3xPNlE_velBWs/f:webp/h:120/q:80/L3RyYWNrcy85NzIyOTdkYy00MzU3LTRhZjQtYWJlYS04OWEzODg1M2E5NDkucG5n" height="60px" title="Bootcamp DIO" />
-<img src="https://assets.dio.me/kCPUcBRKwIhY3--gHdSspiZWdpUXMS2UD0wXM7klMb4/f:webp/h:120/q:80/L3RyYWNrcy81NzQ0ODVlZS0xZTk1LTQzMjAtOThlYy1kMTUyZGQ4ZDk5YmQucG5n" height="60px" title="Bootcamp DIO" />
-<img src="https://assets.dio.me/OTzqoUcfTvgJRGhPlCoXZXzVWpFQB5yO-pygSZ_CTv8/f:webp/h:120/q:80/L3RyYWNrcy9iMTkzMDhmZi05NDMxLTQ4ZTktOWM3Yi01Y2YwMWRkNWVjMjQucG5n" height="60px" title="Bootcamp DIO" />
-<img src="https://assets.dio.me/vKS7Q5G0wquZ8uE6GlzHCIP3mgAOcl-1TZg4zvTvgho/f:webp/h:120/q:80/L3RyYWNrcy80YzRjNzc2MC1hY2YwLTQ5MjctOTdhMS01ZjQ3ZWFlMDExYWQucG5n" height="60px" title="Bootcamp DIO" />
-<img src="https://assets.dio.me/wqFNFD1_7AKN1MpbZvurY1cUcpUXQ2ELMfW5Bi9R8VM/f:webp/h:120/q:80/L3RyYWNrcy9lN2MzZjVkNy0yMTEwLTQ3N2YtYmYxMS0wNjg3MjQzMjZjYzEucG5n" height="60px" title="Bootcamp DIO" />
-<img src="https://assets.dio.me/kl4LftfYq7XVOkgxbC5VUxz6eeJ1eamce2qTGBQRAS4/f:webp/h:120/q:80/L3RyYWNrcy85OGQ1ZTlkMy0wN2EyLTRjNmUtOWNjYy1lNmNiN2ZhNDFiNjEucG5n" height="60px" title="Bootcamp DIO" />
-<img src="https://assets.dio.me/QGBMU101QN38cA6c6M9ukxMZvjWMsUrEyHXYR7AAf2s/f:webp/h:120/q:80/L3RyYWNrcy9hNzM2ZWY0Mi0wZDJmLTQwNzktYWRiNC0yNWM1NWM4NWJhMmIucG5n" height="60px" title="Bootcamp DIO" />
-<img src="https://assets.dio.me/k71svgO76Wm3rok4N8TRVFDkN-yNBtvrU-WpG3i_Byk/f:webp/h:120/q:80/L3RyYWNrcy84N2ExZmEyOS1jYzJiLTQwNjgtODdlYi02M2VmNDYwMzVlZjQucG5n" height="60px" title="Bootcamp DIO" />
-<img src="https://assets.dio.me/SqMnk-_40m3vJHGEqaMYQV3qH6zf4HiFoO_liSwpfCU/f:webp/h:120/q:80/L3RyYWNrcy9lM2U3YjA1Mi1hYzJiLTRhZGMtODAzMS1hZDAxZDY1NjM1NjQucG5n" height="60px" title="Bootcamp DIO" />
-<img src="https://assets.dio.me/w1dt0anJB7fK8QpuoG2aXL1oRX7mWxyF2-wx1phsPUc/f:webp/h:120/q:80/L3RyYWNrcy9kNWQ4M2ZkNC0zOTljLTRiOTctOGUyZS03OTNiYjg3ZTYzMGEucG5n" height="60px" title="Bootcamp DIO" />
-<img src="https://assets.dio.me/Ypa0a_wYeZqQ_cKqtU1uiwbYknySjeGRUmwnQ8gVHqg/f:webp/h:120/q:80/L3RyYWNrcy9iZjZjOWIwYS0wY2FjLTRkMjYtYTIzNy00NWVmODlkZDgwYjIucG5n" height="60px" title="Bootcamp DIO" />
-
-</div>
-
-<br>
-
-### 📄 Certificados
-
-| Curso / Course | Certificado / Certificate |
-|---|---|
-| Introdução ao Machine Learning | [🔗 Ver](https://hermes.dio.me/certificates/4CLT1F1U.pdf) |
-| Programação para Machine Learning | [🔗 Ver](https://hermes.dio.me/certificates/NU6A13SI.pdf) |
-| Algoritmos de Treinamento em Machine Learning | [🔗 Ver](https://hermes.dio.me/certificates/A8VICXPC.pdf) |
-| Introdução à Lógica de Programação | [🔗 Ver](https://hermes.dio.me/certificates/7GUJCIEA.pdf) |
-| Introdução a Banco de Dados | [🔗 Ver](https://hermes.dio.me/certificates/3W9PHQC0.pdf) |
-| Princípios de Desenvolvimento de Software Colaborativo | [🔗 Ver](https://hermes.dio.me/certificates/YJL1X0AE.pdf) |
-| Formação Github Certification | [🔗 Ver](https://hermes.dio.me/certificates/SJZVBPHM.pdf) |
-| Formação Lógica de Programação | [🔗 Ver](https://hermes.dio.me/certificates/PCGWEZWX.pdf) |
-| BairesDev - Machine Learning Practitioner | [🔗 Ver](https://hermes.dio.me/certificates/WMMQTTZU.pdf) |
-| Formação Machine Learning Specialist | [🔗 Ver](https://hermes.dio.me/certificates/37JOHFEB.pdf) |
-| Formação Python Fundamentals | [🔗 Ver](https://hermes.dio.me/certificates/VKLLPOLP.pdf) |
-| Suzano - Python Developer | [🔗 Ver](https://hermes.dio.me/certificates/HS4R5KPS.pdf) |
-| Santander 2025 - Back-End com Python | [🔗 Ver](https://hermes.dio.me/certificates/LFSIBREH.pdf) |
+| Curso | Certificado |
+| --- | --- |
+| Introdução ao Machine Learning | [Ver PDF](https://hermes.dio.me/certificates/4CLT1F1U.pdf) |
+| Programação para Machine Learning | [Ver PDF](https://hermes.dio.me/certificates/NU6A13SI.pdf) |
+| Algoritmos de Treinamento em Machine Learning | [Ver PDF](https://hermes.dio.me/certificates/A8VICXPC.pdf) |
+| Introdução à Lógica de Programação | [Ver PDF](https://hermes.dio.me/certificates/7GUJCIEA.pdf) |
+| Introdução a Banco de Dados | [Ver PDF](https://hermes.dio.me/certificates/3W9PHQC0.pdf) |
+| Princípios de Desenvolvimento de Software Colaborativo | [Ver PDF](https://hermes.dio.me/certificates/YJL1X0AE.pdf) |
+| Formação Github Certification | [Ver PDF](https://hermes.dio.me/certificates/SJZVBPHM.pdf) |
+| Formação Lógica de Programação | [Ver PDF](https://hermes.dio.me/certificates/PCGWEZWX.pdf) |
+| BairesDev - Machine Learning Practitioner | [Ver PDF](https://hermes.dio.me/certificates/WMMQTTZU.pdf) |
+| Formação Machine Learning Specialist | [Ver PDF](https://hermes.dio.me/certificates/37JOHFEB.pdf) |
+| Formação Python Fundamentals | [Ver PDF](https://hermes.dio.me/certificates/VKLLPOLP.pdf) |
+| Suzano - Python Developer | [Ver PDF](https://hermes.dio.me/certificates/HS4R5KPS.pdf) |
+| Santander 2025 - Back-End com Python | [Ver PDF](https://hermes.dio.me/certificates/LFSIBREH.pdf) |
 
 </details>
 
----
+## Contato
 
-## 🐍 Contribution Activity
-
-<div align="center">
-
-![snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-## 🤝 Conecte-se / Connect
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-recpires-00FF88?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/recpires)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-recpires-00FF88?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/recpires/)
-[![Gmail](https://img.shields.io/badge/Gmail-dev.rodrigopires-00FF88?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:dev.rodrigopires@gmail.com)
-[![Synapse Code](https://img.shields.io/badge/Synapse_Code-Founder_%26_CTO-00FF88?style=for-the-badge&logo=rocket&logoColor=white&labelColor=0d1117)](mailto:contato.synapsecode@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00FF88,100:0d1117&height=100&section=footer" width="100%" />
-
-*"Quanto melhor focamos em melhorar, mais rápido melhoraremos."* — Douglas Engelbart
-
-</div>
+[LinkedIn](https://www.linkedin.com/in/recpires/) · [E-mail profissional](mailto:dev.rodrigopires@gmail.com) · [Repositórios no GitHub](https://github.com/recpires?tab=repositories)
