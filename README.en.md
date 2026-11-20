@@ -32,7 +32,7 @@ My background as a surgical nursing technician informs how I design clinical wor
 | [lumIA](https://ia-lumia.com.br/) | AI agents for websites and WhatsApp, with knowledge-base retrieval, lead qualification, and handoff to human support. Selected for Rock New Ventures' Backstage #2 in 2026. | Next.js · PostgreSQL · pgvector |
 | [FluencyIA](https://fluencyia.com.br/) | AI-powered English conversation practice with real-time corrections and progress tracking through the Fluency Score. | .NET · React · Supabase |
 | [Crivo IA](https://crivo-ia.vercel.app/) | Legal document processing with OCR and semantic search. | ASP.NET Core · Next.js · FastAPI · pgvector |
-| Orquestra Business OS | Business management for software firms and agencies, from project briefs and proposals through project margin tracking. | Next.js · Supabase · Playwright |
+| [Orquestra Business OS](https://orquestraos.com.br/) | Business management for software firms and agencies, from project briefs and proposals through project margin tracking. | Next.js · Supabase · Playwright |
 
 ### Smart Health Mirror · First place at FIAP NEXT 2026
 
